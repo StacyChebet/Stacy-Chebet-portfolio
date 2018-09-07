@@ -28,3 +28,7 @@ img {
 body {
   background-image: url(../images/background-image5.jpg);
 }
+.white {
+  color: honeydew;
+  font-size: 24px
+}
