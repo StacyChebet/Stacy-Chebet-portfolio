@@ -8,16 +8,17 @@
 .portfolio {
   font-size: 60px;
   font-style: italic;
-  color: lightCyan;
+  color: lightcyan;
   text-align:center;
 }
 .projects{
   float: left;
   width: 400px;
   min-height: 500px;
-  background-color: black;
+  background-color: honeydew;
   margin-right: 20px;
-  color: honeydew;
+  color: black;
+  font-size: 24px;
 }
 img {
   float: right;
@@ -32,4 +33,12 @@ body {
 .white {
   color: mistyrose;
   font-size: 24px
+}
+.myinterest {
+  float: right;
+  background-color: honeydew;
+  color: black;
+  width: 400px;
+  min-height: 300px;
+
 }
