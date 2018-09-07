@@ -8,4 +8,10 @@
   font-size: 60px;
   font-style: italic;
   color: lightgreen;
+  text-align:center;
+}
+.projects{
+  float: left;
+  width-45%;
+  background-color: silver;
 }
